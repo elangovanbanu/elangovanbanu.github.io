@@ -1,0 +1,214 @@
+html{
+background:black;
+}
+
+body{
+height:1000px;
+width:800px;
+background:white;
+margin:0 auto;
+}
+
+
+#head{
+height:150px;
+width:800px;
+
+}
+
+.nav{
+height:50px;
+width:800px;
+background:red;
+}
+
+.center{
+height:750;
+width:800;
+}
+
+#foot{
+height:40;
+width:800;
+background:red;
+}
+
+.e{
+height:150px;
+width:200px;
+font-size:20px;
+text-align:center;
+float:left;
+}
+
+.e img{
+height:130px;
+width:150px;
+margin:0 auto;
+}
+
+.w{
+height:150px;
+width:600px;
+background:silver;
+float:right;
+}
+
+.w h1{
+font-size:70px;
+text-align:center;
+}
+
+ul li
+{
+list-style-type:none;
+display:inline;
+padding-left:43px;
+}
+
+ul li a
+{
+text-decoration:none;
+font-size:24px;
+color:white;
+}
+
+ul li a:hover
+{
+text-decoration:underline overline;
+font-size:24px;
+color:black;
+}
+
+.p{
+height:750px;
+width:200px;
+background-color:silver;
+float:left;
+
+}
+
+.p h1{
+padding-top:150px;
+padding-right:450px;
+padding-bottom:350px;
+font-size:70px;
+-webkit-transform: rotate(-90deg);s
+}
+
+ol li
+{
+list-style-type:none;
+padding-left:15px;
+padding-top:90px;
+}
+
+ol li a
+{
+text-decoration:none;
+font-size:24px;
+color:white;
+}
+
+ol li a:hover
+{
+text-decoration:underline overline;
+font-size:24px;
+color:black;
+}
+
+.o{
+height:750px;
+width:600px;
+float:right;
+}
+
+img{
+height:400px;
+width:400px;
+padding:30px;
+}
+
+#foot{
+text-decoration:underline;
+text-align:center;
+text-transform:uppercase;
+}
+
+#sign{
+height:400px;
+width:600px;
+margin-top:20px;
+margin-left:80px;
+}
+
+#sign legend{
+margin-left:25px;
+font-size:30px;
+}
+
+.tab td
+{
+padding:20px;
+font-size:20px;
+}
+
+.tab td a{
+text-decoration:none;
+text-transform:uppercase;
+}
+
+.tab td a:hover{
+text-decoration:underline;
+color:red;
+}
+
+.tab input[type="text"],[type="password"],select{
+width:200px;
+height:30px;
+}
+
+.tab button
+{
+
+font-size:17px;
+}
+
+.as .l img{
+height:300px;
+width:300px;
+filter:black(100%);
+float:left;
+}
+
+
+#si{
+height:600px;
+width:600px;
+margin-top:20px;
+margin-left:80px;
+}
+
+h1
+{
+text-align:center;
+font-size:40px;
+}
+
+
+.hi{
+height:600;
+width:700;
+}
+
+.hi td{
+font-size:20px;
+margin-left:5s0px;
+padding-left:21px;
+padding-top:20px;
+
+} 
+
+
+
+
